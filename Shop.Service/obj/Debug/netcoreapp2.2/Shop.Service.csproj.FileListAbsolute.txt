@@ -1,0 +1,24 @@
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Service\bin\Debug\netcoreapp2.2\Shop.Service.deps.json
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Service\bin\Debug\netcoreapp2.2\Shop.Service.dll
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Service\bin\Debug\netcoreapp2.2\Shop.Service.pdb
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Service\bin\Debug\netcoreapp2.2\Shop.Data.dll
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Service\bin\Debug\netcoreapp2.2\Shop.Data.pdb
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Service\obj\Debug\netcoreapp2.2\Shop.Service.csprojAssemblyReference.cache
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Service\obj\Debug\netcoreapp2.2\Shop.Service.csproj.CoreCompileInputs.cache
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Service\obj\Debug\netcoreapp2.2\Shop.Service.AssemblyInfoInputs.cache
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Service\obj\Debug\netcoreapp2.2\Shop.Service.AssemblyInfo.cs
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Service\obj\Debug\netcoreapp2.2\Shop.Service.csproj.CopyComplete
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Service\obj\Debug\netcoreapp2.2\Shop.Service.dll
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Service\obj\Debug\netcoreapp2.2\Shop.Service.pdb
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Service\bin\Debug\netcoreapp2.2\Shop.Service.deps.json
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Service\bin\Debug\netcoreapp2.2\Shop.Service.dll
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Service\bin\Debug\netcoreapp2.2\Shop.Service.pdb
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Service\bin\Debug\netcoreapp2.2\Shop.Data.dll
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Service\bin\Debug\netcoreapp2.2\Shop.Data.pdb
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Service\obj\Debug\netcoreapp2.2\Shop.Service.csprojAssemblyReference.cache
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Service\obj\Debug\netcoreapp2.2\Shop.Service.csproj.CoreCompileInputs.cache
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Service\obj\Debug\netcoreapp2.2\Shop.Service.AssemblyInfoInputs.cache
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Service\obj\Debug\netcoreapp2.2\Shop.Service.AssemblyInfo.cs
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Service\obj\Debug\netcoreapp2.2\Shop.Service.csproj.CopyComplete
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Service\obj\Debug\netcoreapp2.2\Shop.Service.dll
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Service\obj\Debug\netcoreapp2.2\Shop.Service.pdb

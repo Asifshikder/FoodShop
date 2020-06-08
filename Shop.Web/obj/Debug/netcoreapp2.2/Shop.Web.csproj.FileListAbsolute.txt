@@ -1,0 +1,116 @@
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\bin\Debug\netcoreapp2.2\bundleconfig.json
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\bin\Debug\netcoreapp2.2\Shop.Web.deps.json
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\bin\Debug\netcoreapp2.2\Shop.Web.runtimeconfig.json
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\bin\Debug\netcoreapp2.2\Shop.Web.runtimeconfig.dev.json
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\bin\Debug\netcoreapp2.2\Shop.Web.dll
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\bin\Debug\netcoreapp2.2\Shop.Web.pdb
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\bin\Debug\netcoreapp2.2\Shop.Web.Views.dll
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\bin\Debug\netcoreapp2.2\Shop.Web.Views.pdb
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\bin\Debug\netcoreapp2.2\Shop.Data.dll
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\bin\Debug\netcoreapp2.2\Shop.Service.dll
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\bin\Debug\netcoreapp2.2\Shop.Data.pdb
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\bin\Debug\netcoreapp2.2\Shop.Service.pdb
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Shop.Web.csprojAssemblyReference.cache
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Shop.Web.csproj.CoreCompileInputs.cache
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Shop.Web.RazorAssemblyInfo.cache
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Shop.Web.RazorAssemblyInfo.cs
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Shop.Web.AssemblyInfoInputs.cache
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Shop.Web.AssemblyInfo.cs
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Shop.Web.TagHelpers.input.cache
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Shop.Web.TagHelpers.output.cache
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Shop.Web.RazorCoreGenerate.cache
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Pages\Order\Archive.cshtml.g.cs
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Account\Index.cshtml.g.cs
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Account\Logout.cshtml.g.cs
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Account\Profile.cshtml.g.cs
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Account\Settings.cshtml.g.cs
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Category\CreateEdit.cshtml.g.cs
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Category\Topic.cshtml.g.cs
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Food\CreateEdit.cshtml.g.cs
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Food\Index.cshtml.g.cs
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Search.cshtml.g.cs
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Order\CheckoutComplete.cshtml.g.cs
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\AccountSummary\Default.cshtml.g.cs
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\FoodSummary.cshtml.g.cs
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Shop.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Shop.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Shop.Web.Views.pdb
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Shop.Web.csproj.CopyComplete
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Shop.Web.dll
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Shop.Web.pdb
+C:\Users\Asifs\Documents\Project to follow\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Shop.Web.genruntimeconfig.cache
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\bin\Debug\netcoreapp2.2\appsettings.Development.json
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\bin\Debug\netcoreapp2.2\bundleconfig.json
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\bin\Debug\netcoreapp2.2\appsettings.json
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\bin\Debug\netcoreapp2.2\Shop.Web.deps.json
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\bin\Debug\netcoreapp2.2\Shop.Web.runtimeconfig.json
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\bin\Debug\netcoreapp2.2\Shop.Web.runtimeconfig.dev.json
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\bin\Debug\netcoreapp2.2\Shop.Web.dll
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\bin\Debug\netcoreapp2.2\Shop.Web.pdb
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\bin\Debug\netcoreapp2.2\Shop.Web.Views.dll
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\bin\Debug\netcoreapp2.2\Shop.Web.Views.pdb
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\bin\Debug\netcoreapp2.2\Shop.Data.dll
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\bin\Debug\netcoreapp2.2\Shop.Service.dll
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\bin\Debug\netcoreapp2.2\Shop.Data.pdb
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\bin\Debug\netcoreapp2.2\Shop.Service.pdb
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Shop.Web.csprojAssemblyReference.cache
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Shop.Web.csproj.CoreCompileInputs.cache
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Shop.Web.RazorAssemblyInfo.cache
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Shop.Web.RazorAssemblyInfo.cs
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Shop.Web.AssemblyInfoInputs.cache
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Shop.Web.AssemblyInfo.cs
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Shop.Web.TagHelpers.input.cache
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Shop.Web.TagHelpers.output.cache
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Shop.Web.RazorCoreGenerate.cache
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Pages\Order\Archive.cshtml.g.cs
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Account\AccessDenied.cshtml.g.cs
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Account\Index.cshtml.g.cs
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.cshtml.g.cs
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Account\Logout.cshtml.g.cs
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Account\Profile.cshtml.g.cs
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.cshtml.g.cs
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Account\Settings.cshtml.g.cs
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Category\CreateEdit.cshtml.g.cs
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Category\Index.cshtml.g.cs
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Category\Topic.cshtml.g.cs
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Food\CreateEdit.cshtml.g.cs
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Food\Index.cshtml.g.cs
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Search.cshtml.g.cs
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Order\Checkout.cshtml.g.cs
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Order\CheckoutComplete.cshtml.g.cs
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\AccountSummary\Default.cshtml.g.cs
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\FoodSummary.cshtml.g.cs
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Shop.Web.RazorTargetAssemblyInfo.cache
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Shop.Web.RazorTargetAssemblyInfo.cs
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Shop.Web.Views.pdb
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Shop.Web.csproj.CopyComplete
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Shop.Web.dll
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Shop.Web.pdb
+G:\Downloaded projects\ForAlorJibon\FoodStore-master\FoodStore-master\Shop.Web\obj\Debug\netcoreapp2.2\Shop.Web.genruntimeconfig.cache
